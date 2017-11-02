@@ -2,4 +2,6 @@
 
 View all the logos at [http://blocksafari.net/zencash-logos/](http://blocksafari.net/zencash-logos/).
 
-To add a logo, submit a pull request on [Github](https://github.com/JonDum/zencash-logos), or join the #logo channel on [Discord](https://discord.gg/9kXQFHx).
+To submit a logo, send an e-mail to [zencashlogo@blocksafari.net](mailto:zencashlogo@blocksafari.net).
+
+Join in the discussion by heading over to the #logo channel on [Discord](https://discord.gg/9kXQFHx).
